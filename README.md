@@ -84,12 +84,7 @@ I configure Sysmon for detailed host monitoring, forward logs to Microsoft Senti
 🔹ITIL 4 Foundation  
 🔹ISC2 SSCP  
 
----
 
-## 📊 GitHub Stats & Badges
-
-
-[![dnsmdl's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnsmdl&show_icons=true&theme=radical)](https://github.com/dnsmdl/github-readme-stats)
 
 
 
