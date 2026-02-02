@@ -4,7 +4,7 @@
 
 ## 🧭 About Me
 
-Aspiring SOC Analyst and active Cybersecurity practicioner focused on Cyber Security Operations (SOC monitoring, SIEM detections, and incident response), building hands-on labs/projects turning theory into practice by mirroring real-world blue team work.
+Aspiring SOC Analyst and active Cybersecurity practitioner focused on Cyber Security Operations (SOC monitoring, SIEM detections, and incident response), building hands-on labs/projects turning theory into practice by mirroring real-world blue team work.
 
 ---
 
@@ -59,12 +59,12 @@ Aspiring SOC Analyst and active Cybersecurity practicioner focused on Cyber Secu
 
 
 
-### Active Directory Homelab
+### ⭐ [Active Directory Homelab]()
 
 Active Directory home lab that includes Splunk, Kali Linux, and Atomic Red Team to simulate a realistic domain environment.  
 I ingest Windows and AD logs into Splunk, run Atomic Red Team test cases, and generate attack telemetry to learn how common threats appear in a SIEM and how to detect them.
 
-### ☁️ Cloud SOC Lab (Azure)
+### ☁️ [Azure SOC Homelab]()
 
 Azure-based home SOC lab with a vulnerable honeypot VM to attract real attackers and real-world telemetry.  
 I configure Sysmon for detailed host monitoring, forward logs to Microsoft Sentinel, build KQL queries for failed logins and attack patterns, use a Geo‑IP watchlist for threat mapping, and visualize attacker activity with custom workbooks.
@@ -72,19 +72,15 @@ I configure Sysmon for detailed host monitoring, forward logs to Microsoft Senti
 ---
 
 
-## 📖 Education
+## 📫 Where to Find Me
 
-
-🏆- B.S. Cybersecurity and Information Assurance – WGU  
-🔹CompTIA A+  
-🔹CompTIA Network+  
-🔹CompTIA Security+  
-🔹CompTIA CySA+  
-🔹CompTIA Project+  
-🔹ITIL 4 Foundation  
-🔹ISC2 SSCP  
-
-
+| Platform | Description |
+|--------|-------------|
+| 🏅 [Credly](https://www.credly.com/users/dnsmdl) | Digital badges and certifications showcasing my learning and professional development. |
+| 💻 [HackTheBox](https://app.hackthebox.com/users/2722246) | My HackTheBox profile where my platform learning progress is documented. |
+| 📝 [Medium](https://medium.com/@dnsmdl) | Long-form writing mostly on my HackTheBox walkthroughs/write-ups and home lab's | 
+| 💼 [LinkedIn](https://www.linkedin.com/in/dnsmdl) | Professional profile |
+| 🌐 Portfolio Website | Personal site to showcase lab and projects write-ups. 🛠 **UNDER CONSTRUCTION** 🛠 |
 
 
 
